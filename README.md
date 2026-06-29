@@ -13,7 +13,6 @@ This project showcases an interactive Sales Dashboard built to analyze global sa
 - **Excel:** Data cleaning and initial analysis.
 
 ## 💡 Insights
-[هنا يمكنك كتابة جملة أو جملتين عن أهم نتيجة وصلتي لها في هذا المشروع، مثلاً: "Identified a 15% increase in sales in the Q3 period through regional analysis."]
-
+Identified a 15% increase in sales in the Q3 period through regional analysis
 ---
 *Created by [Amira Mohamed](https://github.com/amira-analytics)*
