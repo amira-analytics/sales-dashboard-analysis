@@ -9,8 +9,7 @@ This project showcases an interactive Sales Dashboard built to analyze global sa
 - **Business Insights:** Identified trends, regional performance, and top-performing categories.
 
 ## 🛠 Tools & Technologies
-- **Power BI:** Data visualization and dashboard creation.
-- **Excel:** Data cleaning and initial analysis.
+- **Power BI:** Data modeling, interactive dashboard creation and data visualization .
 
 ## 💡 Insights
 Identified a 15% increase in sales in the Q3 period through regional analysis
